@@ -1,0 +1,9 @@
+23/10/2023 15:23:40 - https://httpstat.us/404- online: false
+23/10/2023 15:23:40 - https://www.alura.com.br/- online: true
+23/10/2023 15:23:40 - https://www.caelum.com.br/- online: true
+23/10/2023 15:23:46 - https://httpstat.us/404- online: false
+23/10/2023 15:23:46 - https://www.alura.com.br/- online: true
+23/10/2023 15:23:46 - https://www.caelum.com.br/- online: true
+23/10/2023 15:23:52 - https://httpstat.us/404- online: false
+23/10/2023 15:23:52 - https://www.alura.com.br/- online: true
+23/10/2023 15:23:52 - https://www.caelum.com.br/- online: true
